@@ -17,7 +17,7 @@ Este proyecto para el curso de Backend de **CODERHOUSE** se trata de un servidor
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/Yamila-Silva/Yamila-Silva-ProyectoFinal-Backend1.git
 2. Entra en la carpeta del proyecto:
 cd Backend1+SilvaYasin\e-commerce-backend
 3. Instala las dependencias necesarias:
