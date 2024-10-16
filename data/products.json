@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1 actualizado",
+    "description": "Descripción del producto 1",
+    "code": "ABC123",
+    "price": 150,
+    "status": true,
+    "stock": 30,
+    "category": "Categoría 1",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "code": "ABC456",
+    "price": 230,
+    "status": true,
+    "stock": 20,
+    "category": "Categoría 3",
+    "thumbnails": [
+      "ruta/imagen3.jpg",
+      "ruta/imagen4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Producto 4 actualizado",
+    "description": "Descripción del producto 3",
+    "code": "ABC789",
+    "price": 190,
+    "status": true,
+    "stock": 10,
+    "category": "Categoría 8",
+    "thumbnails": [
+      "ruta/imagen5.jpg",
+      "ruta/imagen6.jpg"
+    ]
+  }
+]

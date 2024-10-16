@@ -1,0 +1,18 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar los archivos de configuración del entorno
+.env
+
+# Ignorar el archivo package-lock.json (opcional, depende de tu estrategia de manejo de dependencias)
+package-lock.json
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar archivos de sistema o de editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
