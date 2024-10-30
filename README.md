@@ -10,6 +10,10 @@
 # Proyecto E-commerce Backend
 Este proyecto para el curso de Backend de **CODERHOUSE** se trata de un servidor backend basado en **Node.js** y **Express** que permite gestionar productos y carritos de compras para un e-commerce. Los datos se almacenan en archivos JSON para simular una base de datos.
 
+## Descripción
+
+La aplicación permite a los usuarios ver una lista de productos, agregar nuevos productos y eliminarlos. Las actualizaciones en la lista de productos se reflejan en tiempo real gracias a la integración de WebSockets.
+
 ## Requisitos
 - **Node.js**
 - **NPM** (Node Package Manager)
@@ -38,7 +42,7 @@ Endpoints de Productos
 - Actualizar producto por ID: PUT /api/products/:pid
 - Eliminar producto por ID: DELETE /api/products/:pid
 
-Endpoints de Carritos
+Endpoints de Carrito
 - Crear un carrito: POST /api/carts
 -  Listar productos de un carrito por ID: GET /api/carts/:cid
 - Agregar un producto al carrito: POST /api/carts/:cid/product/:pid
@@ -49,4 +53,5 @@ Puedes usar Postman u otra herramienta de cliente HTTP para realizar solicitudes
 - Ejemplo de prueba para obtener todos los productos:
 GET http://localhost:8080/api/products
 
-## Autor: Yamila A. Silva Yasin
+## Autor: 
+Yamila A. Silva Yasin.
